@@ -1,0 +1,385 @@
+sampleID,latitude,longitude,ecosystem (terrestrial/freshwater/marine),urban_rural,sampling methods,value,group,scaled_value
+TI1_1,14.47,120.97,Terrestrial,urban,active,0.0179,abundance,0.007705114
+TI1_10,14.97,121.04,Terrestrial,urban,active,0.0036,abundance,0.001560653
+TI1_11,14.38,121,Terrestrial,urban,active,0.0084,abundance,0.003632837
+TI1_12,14.59,120.97,Terrestrial,urban,active,0.0107,abundance,0.004622266
+TI1_13,14.58,121.05,Terrestrial,urban,active,0.0072,abundance,0.003115717
+TI1_14,14.8,120.95,Terrestrial,urban,active,0.0143,abundance,0.006166425
+TI1_15,14.6,121.01,Terrestrial,urban,active,0.006,abundance,0.002597981
+TI1_16,14.6,121.01,Terrestrial,urban,active,0.006,abundance,0.002597981
+TI1_17,14.6,121.01,Terrestrial,urban,active,0.0227,abundance,0.009748256
+TI1_2,14.67,120.97,Terrestrial,urban,active,0.0084,abundance,0.003632837
+TI1_3,14.94,121.01,Terrestrial,urban,active,0.0012,abundance,0.000520841
+TI1_4,14.63,121.09,Terrestrial,urban,active,0.0143,abundance,0.006166425
+TI1_5,14.75,121.01,Terrestrial,urban,active,0.0024,abundance,0.001041058
+TI1_6,14.5,121.05,Terrestrial,urban,active,0.0119,abundance,0.005137596
+TI1_7,14.67,120.94,Terrestrial,urban,active,0.0167,abundance,0.007192824
+TI1_8,14.53,121.01,Terrestrial,urban,active,0.0107,abundance,0.004622266
+TI1_9,14.52,121.01,Terrestrial,urban,active,0.0227,abundance,0.009748256
+TI104_1,60.7,-135.01,Terrestrial,rural,passive,3,deposition,0.602059991
+TI104_2,60.7,-135.01,Terrestrial,Rural,passive,6,deposition,0.84509804
+TI104_3,60.7,-135.01,Terrestrial,rural,passive,17,deposition,1.255272505
+TI105_1,36.62,109.46,Terrestrial,urban,passive,162.3,deposition,2.212986185
+TI105_10,34.27,108.96,Terrestrial,urban,passive,349.6,deposition,2.544811912
+TI105_11,34.35,108.98,Terrestrial,urban,passive,281.4,deposition,2.450864692
+TI105_12,34.19,108.88,Terrestrial,urban,passive,236.9,deposition,2.376394442
+TI105_2,34.35,107.23,Terrestrial,urban,passive,224.5,deposition,2.353146546
+TI105_3,34.91,108.99,Terrestrial,urban,passive,97.6,deposition,1.993876915
+TI105_4,34.35,108.73,Terrestrial,urban,passive,258.6,deposition,2.414304688
+TI105_5,34.49,109.52,Terrestrial,urban,passive,231.1,deposition,2.36567514
+TI105_6,38.27,109.76,Terrestrial,urban,passive,189.7,deposition,2.280350693
+TI105_7,33.07,107.04,Terrestrial,urban,passive,142.2,deposition,2.155943018
+TI105_8,32.68,109.04,Terrestrial,urban,passive,130.2,deposition,2.117933835
+TI105_9,33.86,109.95,Terrestrial,urban,passive,161.4,deposition,2.210586025
+TI108_1,-19.05,-98.94,Terrestrial,urban,active,0.205,abundance,0.080987047
+TI109_1,28,123,Marine,Coastal,active,0.13,abundance,0.053078443
+TI109_1,20,133,Marine,remote area,active,0.01,abundance,0.004321374
+TI111_1,36.42,60.86,Terrestrial,urban,passive,2105,deposition,3.323458367
+TI111_10,36.43,60.83,Terrestrial,urban,passive,3509,deposition,3.545307116
+TI111_2,36.42,60.86,Terrestrial,urban,passive,1754,deposition,3.244277121
+TI111_3,36.42,60.86,Terrestrial,urban,passive,2105,deposition,3.323458367
+TI111_4,36.43,60.86,Terrestrial,urban,passive,3157,deposition,3.499412126
+TI111_5,36.45,60.82,Terrestrial,urban,passive,2807,deposition,3.448397103
+TI111_6,36.41,60.84,Terrestrial,suburban,passive,3509,deposition,3.545307116
+TI111_7,36.48,60.81,Terrestrial,urban,passive,2456,deposition,3.390405156
+TI111_8,36.41,60.84,Terrestrial,suburban,passive,2807,deposition,3.448397103
+TI111_9,36.4,60.87,Terrestrial,suburban,passive,2105,deposition,3.323458367
+TI113_1,41.38,25.58,Terrestrial,urban,active,0.8,abundance,0.255272505
+TI124_1,24.67,118.1,Terrestrial,urban,active,0.01,abundance,0.004321374
+TI124_2,24.63,118.3,Terrestrial,suburban,active,0.013,abundance,0.005609445
+TI139_1,30.65,103.05,Terrestrial,suburban,passive,2895,deposition,3.461798558
+TI139_2,30.65,103.99,Terrestrial,suburban,passive,1979,deposition,3.29666519
+TI144_1,30.65,120.68,Terrestrial,urban,active,2.5,abundance,0.544068044
+TI146_1,30.2,123.06,Marine,remote area,active,0.048,abundance,0.020361283
+TI146_10,-44.41,150.09,Marine,remote area,active,0.0315,abundance,0.013469232
+TI146_11,-45.85,147.42,Marine,remote area,active,0.0246,abundance,0.010554352
+TI146_12,-54.24,144.16,Marine,remote area,active,0.0398,abundance,0.016949813
+TI146_13,-60.34,129.58,Marine,remote area,active,0.045,abundance,0.01911629
+TI146_14,-60.89,109.6,Marine,remote area,active,0.0297,abundance,0.012710713
+TI146_15,-61.65,89.95,Marine,remote area,active,0.0195,abundance,0.00838723
+TI146_16,-64.04,103.43,Marine,remote area,active,0.0247,abundance,0.010596736
+TI146_17,-64.39,128.36,Marine,remote area,active,0.0344,abundance,0.014688512
+TI146_18,-64.74,146.33,Marine,remote area,active,0.0355,abundance,0.015150103
+TI146_19,-65.17,151.61,Marine,remote area,active,0.0364,abundance,0.015527404
+TI146_2,24.97,128.18,Marine,remote area,active,0.038,abundance,0.016197354
+TI146_20,-65.27,152.93,Marine,remote area,active,0.0445,abundance,0.018908444
+TI146_21,-65.42,82,Marine,remote area,active,0.0285,abundance,0.012204296
+TI146_22,-65.62,77.77,Marine,remote area,active,0.0412,abundance,0.017534159
+TI146_23,-68.97,76.42,Marine,remote area,active,0.034,abundance,0.014520539
+TI146_24,-69.3,76.23,Marine,remote area,active,0.0224,abundance,0.009620841
+TI146_25,-73.86,76.97,Marine,remote area,active,0.0027,abundance,0.001171015
+TI146_26,-73.86,76.97,Marine,remote area,active,0.0083,abundance,0.003589767
+TI146_3,18.67,134.05,Marine,remote area,active,0.0316,abundance,0.013511333
+TI146_4,12.79,139.81,Marine,remote area,active,0.0226,abundance,0.009705788
+TI146_5,5.12,146.94,Marine,remote area,active,0.0405,abundance,0.017242085
+TI146_6,-4.71,152.56,Marine,remote area,active,0.0408,abundance,0.017367284
+TI146_7,-13.66,155.27,Marine,remote area,active,0.0422,abundance,0.017951069
+TI146_8,-24.05,155.57,Marine,remote area,active,0.048,abundance,0.020361283
+TI146_9,-34.27,153.05,Marine,remote area,active,0.0478,abundance,0.020278394
+TI147_1,29.65,91.12,Terrestrial,Urban,active,27.6,abundance,1.456366033
+TI147_3,29.25,91.4,Terrestrial,rural,active,15.6,abundance,1.220108088
+TI147_4,29.32,91.22,Terrestrial,rural,active,8.1,abundance,0.959041392
+TI158_1,46.8,-23.65,Terrestrial,urban,passive,123.2,deposition,2.094121596
+TI159_1,51.65,-0.2,Terrestrial,urban,passive,712,deposition,2.85308953
+TI160_1,53.79,9.98,Terrestrial,urban,passive,260.6,deposition,2.41763774
+TI160_2,53.79,9.98,Terrestrial,urban,passive,246.9,deposition,2.394276527
+TI160_3,53.79,9.98,Terrestrial,urban,passive,136.5,deposition,2.138302698
+TI160_4,53.79,9.98,Terrestrial,Rural,passive,331.4,deposition,2.521661015
+TI160_5,53.79,9.98,Terrestrial,Rural,passive,512,deposition,2.710117365
+TI160_6,53.79,9.98,Terrestrial,Rural,passive,343.1,deposition,2.536684673
+TI162_1,43.33,-8.35,Terrestrial,suburban,passive,663,deposition,2.822168079
+TI163_1,23.14,113.5,Terrestrial,urban,passive,114,deposition,2.06069784
+TI167_1,20.18,133.84,Marine,NA,active,0.06,deposition,0.025305865
+TI167_1,20.18,133.84,Marine,NA,active,0.027,abundance,0.011570444
+TI168_1,5.4,103.09,Coastal,NA,passive,5476,deposition,3.738542741
+TI17_1,25.61,85.61,Terrestrial,urban,passive,1959.6,deposition,3.292388998
+TI17_2,25.55,84.85,Terrestrial,Rural,passive,1320.4,deposition,3.121034302
+TI170_1,30.14,121.14,Terrestrial,urban,active,0,abundance,0
+TI170_3,31.21,121.7,Terrestrial,urban,active,4.18,abundance,0.71432976
+TI172_1,42.8,1.41,Terrestrial,rural,passive,366,deposition,2.564666064
+TI177_1,-6.92,107.62,Terrestrial,urban,active,0.43,abundance,0.155336037
+TI177_2,-6.92,107.62,Terrestrial,suburban,active,0.2,abundance,0.079181246
+TI186_1,10.98,106.8,Terrestrial,urban,passive,230,deposition,2.36361198
+TI186_2,10.96,106.49,Terrestrial,rural?,passive,256,deposition,2.409933123
+TI186_3,10.96,106.49,Terrestrial,rural?,passive,374,deposition,2.574031268
+TI188_1,34.5,109,Terrestrial,urban,active,12500,abundance,4.096944755
+TI192_1,33.69,111.93,Terrestrial,suburban,active,0.2,abundance,0.079181246
+TI193_3,31.33,121.33,Terrestrial,urban,active,22.78,abundance,1.37621185
+TI193_6,31.33,121.11,Terrestrial,urban,active,15.88,abundance,1.227372442
+TI200_1,45.22,-78.93,Terrestrial,Rural,passive,9,deposition,1
+TI200_2,45.22,-78.93,Terrestrial,rural,passive,6,deposition,0.84509804
+TI200_3,45.4,-79,Terrestrial,rural,passive,5,deposition,0.77815125
+TI200_4,45.13,-79.1,Terrestrial,Rural,passive,8,deposition,0.954242509
+TI200_5,45.18,-78.82,Terrestrial,rural,passive,4,deposition,0.698970004
+TI200_6,45.18,-78.82,Terrestrial,rural,passive,4,deposition,0.698970004
+TI204_12,27.98,120.72,Terrestrial,urban,active,195,abundance,2.292256071
+TI204_16,27.92,120.72,Terrestrial,urban,active,1800,abundance,3.255513713
+TI204_2,27.92,120.72,Terrestrial,urban,active,226,abundance,2.356025857
+TI204_20,28,120.72,Terrestrial,urban,active,259,abundance,2.414973348
+TI204_26,28,120.72,Terrestrial,urban,active,287,abundance,2.459392488
+TI204_27,28,120.72,Terrestrial,urban,active,200,abundance,2.303196057
+TI204_29,27.98,120.71,Terrestrial,rural,active,137,abundance,2.139879086
+TI204_31,27.92,120.72,Terrestrial,rural,active,97,abundance,1.991226076
+TI204_33,27.92,120.73,Terrestrial,rural,active,70,abundance,1.851258349
+TI205_1,30.62,106.07,Terrestrial,urban,passive,246,deposition,2.392696953
+TI205_1,30.62,104.07,Terrestrial,urban,passive,207,deposition,2.318063335
+TI210_1,36.78,114.07,Terrestrial,rural,passive,7301,deposition,3.863441829
+TI211_1,5.4,103.11,Coastal,urban,passive,368,deposition,2.567026366
+TI211_2,2.59,101.74,Coastal,urban,passive,340,deposition,2.532754379
+TI211_3,5.8,103.05,Island,A pristine site,passive,274,deposition,2.439332694
+TI223_1,37.99,127.04,Terrestrial,urban,active,0.72,abundance,0.235528447
+TI233_1,42.8,1.41,Terrestrial,Rural,passive,365,deposition,2.563481085
+TI235_1,36.05,103.8,Terrestrial,urban,passive,353.83,deposition,2.550020331
+TI236_1,-36.96,174.76,Coastal,urban,passive,73,deposition,1.86923172
+TI236_2,-36.87,174.7,Coastal,suburban/residential,passive,582,deposition,2.765668555
+TI240_1,21,114,Freshwater?,NA,active,0.042,abundance,0.017867719
+TI240_2,20,113,Marine,NA,active,0.008,abundance,0.003460532
+TI240_3,-10,87,Marine,NA,active,0.004,abundance,0.001733713
+TI241_1,13.75,100.66,Terrestrial,urban,active,201.72,abundance,2.306896598
+TI241_2,13.75,100.66,Terrestrial,urban,active,349.53,abundance,2.544725193
+TI241_3,13.75,100.66,Terrestrial,urban,active,312.45,abundance,2.496168274
+TI241_4,14.16,100.8,Terrestrial,urban,active,581.9,abundance,2.765594055
+TI241_5,13.55,100.8,Terrestrial,urban,active,221.48,abundance,2.347290976
+TI248_1,23,113,Terrestrial,urban,active,0.05,abundance,0.021189299
+TI248_2,23,113,Terrestrial,urban,active,0.02,abundance,0.008600172
+TI248_3,23,113,Terrestrial,urban,active,0.04,abundance,0.017033339
+TI248_4,23,113,Terrestrial,urban,active,11200,abundance,4.049256797
+TI254_1,36.21,120.28,Coastal,urban,passive,39.083,deposition,1.602960219
+TI254_2,36.15,120.13,Coastal,urban,passive,54.54,deposition,1.744605875
+TI254_3,36.08,120.31,Coastal,urban,passive,44.941,deposition,1.662200444
+TI254_4,36.04,120.29,Coastal,urban,passive,45.491,deposition,1.667368888
+TI254_5,35.98,120.24,Coastal,urban,passive,49.485,deposition,1.703162361
+TI255_1,18.01,110.49,Terrestrial,urban,active,0.0052,abundance,0.00225248
+TI255_10,20.48,113.75,Terrestrial,urban,active,0.0039,abundance,0.001690454
+TI255_11,21.55,113.86,Terrestrial,urban,active,0.0071,abundance,0.003072596
+TI255_12,20.78,114.4,Terrestrial,urban,active,0.0041,abundance,0.001776967
+TI255_13,21.74,114.53,Terrestrial,urban,active,0.0067,abundance,0.002900069
+TI255_14,21.16,115.06,Terrestrial,urban,active,0.007,abundance,0.003029471
+TI255_15,22.01,115.19,Terrestrial,urban,active,0.0129,abundance,0.005566571
+TI255_16,22.13,115.9,Terrestrial,urban,active,0.0131,abundance,0.005652315
+TI255_17,22.39,116.55,Terrestrial,urban,active,0,abundance,0
+TI255_18,22.69,117.2,Terrestrial,urban,active,0,abundance,0
+TI255_19,19.26,110.63,Terrestrial,urban,active,0,abundance,0
+TI255_2,18.57,111.03,Terrestrial,urban,active,0.0038,abundance,0.001647191
+TI255_20,19.49,110.78,Terrestrial,urban,active,0.001,abundance,0.000434077
+TI255_21,21.46,111.51,Terrestrial,urban,active,0.0069,abundance,0.002986341
+TI255_22,22.03,113.09,Terrestrial,urban,active,0,abundance,0
+TI255_23,22.58,114.87,Terrestrial,urban,active,0.0104,abundance,0.004493338
+TI255_3,19.2,111.26,Terrestrial,urban,active,0,abundance,0
+TI255_4,19.6,111.53,Terrestrial,urban,active,0.0083,abundance,0.003589767
+TI255_5,20.13,111.61,Terrestrial,urban,active,0,abundance,0
+TI255_6,20.9,111.11,Terrestrial,urban,active,0,abundance,0
+TI255_7,21.03,111.82,Terrestrial,urban,active,0,abundance,0
+TI255_8,21.14,112.53,Terrestrial,urban,active,0,abundance,0
+TI255_9,21.34,113.18,Terrestrial,urban,active,0,abundance,0
+TI256_5,40.76,-74.13,Terrestrial,urban,passive,327,deposition,2.515873844
+TI258_1,54.5,18.56,Coastal,urban,passive,10,deposition,1.041392685
+TI259_1,41.12,108.89,freshwater,rural ,passive,2065,deposition,3.315130317
+TI259_2,41.01,108.85,freshwater,rural ,passive,3073,deposition,3.487703863
+TI259_3,40.97,108.92,freshwater,rural ,passive,4468,deposition,3.650210355
+TI259_4,40.95,108.96,freshwater,island,passive,2829,deposition,3.451786436
+TI259_5,40.77,108.71,freshwater,rural ,passive,3909,deposition,3.592176757
+TI259_6,40.81,108.77,freshwater,rural ,passive,3885,deposition,3.589502796
+TI268_1,53.74,-0.35,terrestrial,urban,active,1029,deposition,3.012837225
+TI269_1,-27.24,152.73,terrestrial,urban,active,0.17,abundance,0.068185862
+TI271_1,33.99,119.84,Coastal,urban,active,23.8,abundance,1.394451681
+TI274_1,42.65,21.13,Terrestrial,urban,passive,61.7,deposition,1.797267541
+TI274_2,42.64,21.13,Terrestrial,urban,passive,98.7,deposition,1.998695158
+TI274_3,42.65,21.18,Terrestrial,urban,passive,85.8,deposition,1.938519725
+TI274_4,42.65,21.18,Terrestrial,urban,passive,75.1,deposition,1.881384657
+TI274_5,42.64,21.14,Terrestrial,urban,passive,90.2,deposition,1.959994838
+TI274_6,42.62,21.15,Terrestrial,urban,passive,63.7,deposition,1.810904281
+TI274_7,42.62,21.13,Terrestrial,urban,passive,107.7,deposition,2.036229544
+TI275_1,33.64,72.99,Terrestrial,urban,active,0.93,abundance,0.285557309
+TI276_2,35,-120,Terrestrial,urban,active,5.6,abundance,0.819543936
+TI278_1,60.76,4.07,Coastal,NA,active,35.3,abundance,1.559906625
+TI278_3,60.78,1.86,Coastal,NA,active,13.2,abundance,1.152288344
+TI278_8,63.15,3.36,Marine,NA,active,0.23,abundance,0.089905111
+TI278_9,56.33,6.08,Marine,NA,active,0.28,abundance,0.10720997
+TI279_1,36.07,103.75,Terrestrial,urban,passive,521.3,deposition,2.717920026
+TI279_2,36.07,103.75,Terrestrial,urban,passive,468.1,deposition,2.671265433
+TI279_3,36.07,103.75,Terrestrial,urban,passive,327.9,deposition,2.517063873
+TI279_4,36.07,103.75,Terrestrial,urban,passive,229.9,deposition,2.363423933
+TI279_5,36.07,103.75,Terrestrial,urban,passive,203.1,deposition,2.309843005
+TI279_6,36.07,103.75,Terrestrial,urban,passive,138.1,deposition,2.14332713
+TI280_1,20,113,Marine,NA,active,0.035,abundance,0.01494035
+TI281_1,45.66,126.55,Terrestrial,urban,active,162.4,abundance,2.213252052
+TI281_2,45.66,126.67,Terrestrial,urban,active,63.2,abundance,1.807535028
+TI281_3,45.7,126.67,Terrestrial,urban,active,12.8,abundance,1.139879086
+TI282_1,35.47,133.05,Coastal,rural,active,0.14,abundance,0.056904851
+TI282_2,33.59,130.21,Coastal,rural,active,0.3,abundance,0.113943352
+TI282_3,36.53,136.65,Coastal,rural,active,0.12,abundance,0.049218023
+TI282_4,-36.85,174.76,Coastal,NA,active,0.12,abundance,0.049218023
+TI282_5,-39.08,175.55,Coastal,NA,active,0.06,abundance,0.025305865
+TI282_6,-39.93,175.02,Coastal,NA,active,0.03,abundance,0.012837225
+TI285_1,15,113,NA,NA,active,0.046,abundance,0.019531685
+TI285_10,10.01,116.24,Marine,NA,active,0.042,abundance,0.017867719
+TI285_11,9.25,116.25,Marine,NA,active,0.016,abundance,0.006893708
+TI285_12,9.74,112.07,Marine,NA,active,0.045,abundance,0.01911629
+TI285_13,10.21,112.23,Coastal,NA,active,0.018,abundance,0.007747778
+TI285_2,19.23,110.6,Coastal,NA,active,0.063,abundance,0.026533265
+TI285_3,17.03,116.24,Marine,NA,active,0.044,abundance,0.018700499
+TI285_4,16.01,116.03,Marine,NA,active,0.059,abundance,0.02489596
+TI285_5,15.26,116.26,Marine,NA,active,0.146,abundance,0.059184618
+TI285_6,14.02,116.24,Marine,NA,active,0.031,abundance,0.013258665
+TI285_7,13,116,Marine,NA,active,0.017,abundance,0.007320953
+TI285_8,12.22,116,Marine,NA,active,0.017,abundance,0.007320953
+TI285_9,11.03,116,Marine,NA,active,0.058,abundance,0.024485668
+TI286_1,31.5,121.4,Terrestrial,urban,passive,1434.57,deposition,3.157024374
+TI286_2,31.7,121.4,Terrestrial,urban,passive,5094.93,deposition,3.707223454
+TI286_3,30.9,121.4,Terrestrial,urban,passive,4072.81,deposition,3.61000077
+TI286_4,31.1,121.7,Terrestrial,urban,passive,1756.72,deposition,3.244949694
+TI286_5,31.8,120.9,Terrestrial,urban,passive,2619.74,deposition,3.418423937
+TI286_6,31.1,121.4,Terrestrial,urban,passive,4588.57,deposition,3.661771998
+TI291_1,39.68,116.44,Terrestrial,suburban,passive,347.2,deposition,2.541828767
+TI291_2,39.65,116.03,Terrestrial,NA,passive,110.84,deposition,2.048597158
+TI291_3,39.94,116.28,Terrestrial,NA,passive,167.25,deposition,2.225955073
+TI291_4,39.97,116.02,Terrestrial,NA,passive,93.05,deposition,1.9733588
+TI291_5,40.19,116.82,Terrestrial,NA,passive,144.31,deposition,2.162295503
+TI291_6,39.7,116.7,Terrestrial,NA,passive,139.87,deposition,2.148818515
+TI292_1,38.29,116.87,Coastal,NA,passive,40,deposition,1.612783857
+TI292_1,38.29,116.87,Coastal,NA,passive,0.03,abundance,0.012837225
+TI292_2,34.61,119.21,Coastal,NA,passive,35,deposition,1.556302501
+TI292_2,34.61,119.21,Coastal,NA,passive,0.19,abundance,0.075546961
+TI292_3,29.97,122.18,Coastal,NA,passive,61,deposition,1.792391689
+TI292_3,29.97,122.18,Coastal,NA,passive,0.19,abundance,0.075546961
+TI292_4,24.61,118.31,Coastal,NA,passive,38,deposition,1.591064607
+TI292_4,24.61,118.31,Coastal,NA,passive,0.19,abundance,0.075546961
+TI292_5,19.98,110.34,Coastal,NA,passive,30,deposition,1.491361694
+TI292_5,19.98,110.34,Coastal,NA,passive,0.19,abundance,0.075546961
+TI295_6,37.64,127.02,Terrestrial,urban,active,1.2,abundance,0.342422681
+TI295_7,37.49,126.96,Terrestrial,urban,active,1.14,abundance,0.330413773
+TI295_8,37.47,127.04,Terrestrial,urban,active,3.37,abundance,0.640481437
+TI296_1,10.41,-75.53,Terrestrial,urban,passive,1252000,deposition,6.097604676
+TI296_2,10.41,-75.53,Terrestrial,urban,passive,2472000,deposition,6.393048642
+TI296_3,10.41,-75.53,Terrestrial,urban,passive,756000,deposition,5.87852237
+TI297_1,23.1,113.79,Terrestrial,urban,passive,277,deposition,2.444044796
+TI297_2,23.1,113.76,Terrestrial,urban,passive,208,deposition,2.320146286
+TI297_3,23.1,113.75,Terrestrial,urban,passive,198,deposition,2.298853076
+TI298,10.04,76.4,Coastal,NA,passive,21.27,deposition,1.347720217
+TI307_1,53.79,0.37,Terrestrial,urban,passive,603,deposition,2.781036939
+TI307_2,53.79,0.37,Terrestrial,urban,passive,3617,deposition,3.558468563
+TI307_3,53.79,0.37,Terrestrial,urban,passive,1746,deposition,3.242292905
+TI307_4,53.79,0.37,Terrestrial,urban,passive,1012,deposition,3.005609445
+TI307_5,53.79,0.37,Terrestrial,urban,passive,522,deposition,2.718501689
+TI308_1,39.97,115.44,Terrestrial,urban,passive,133.18,deposition,2.127687788
+TI308_2,40.18,116.45,Terrestrial,urban,passive,180.12,deposition,2.25796641
+TI308_3,40,116.56,Terrestrial,urban,passive,395.07,deposition,2.597771948
+TI309_1,23.5,113.5,Coastal,urban,active,65.94,deposition,1.825685708
+TI309_1,23.5,113.5,Coastal,urban,active,0.17,abundance,0.068185862
+TI310_1,40,116.32,Terrestrial,urban,passive,467.28,deposition,2.67050561
+TI310_2,40.17,116.27,Terrestrial,urban,passive,418.22,deposition,2.622441994
+TI310_3,39.96,116.88,Terrestrial,urban,passive,414.17,deposition,2.618225964
+TI315_10,6.74,79.88,Coastal,NA,active,0.02,abundance,0.008600172
+TI315_12,6.67,79.59,Coastal,NA,active,0,abundance,0
+TI315_14,7.27,80.6,Terrestrial,inland,active,0.14,abundance,0.056904851
+TI315_16,7.3,80.63,terrestrial,inland,active,0.07,abundance,0.029383778
+TI315_17,6.95,80,Terrestrial,Urban,active,0.23,abundance,0.089905111
+TI315_18,7.27,80.22,Terrestrial,Urban,active,0.09,abundance,0.037426498
+TI315_19,6.48,79.9,Terrestrial,rural,active,0.03,abundance,0.012837225
+TI315_2,6.9,79.85,Terrestrial,urban,active,0.15,abundance,0.06069784
+TI315_20,8.4,79.9,Terrestrial,rural,active,0,abundance,0
+TI315_4,6.73,80.05,Terrestrial,unban,active,0.01,abundance,0.004321374
+TI315_6,6.95,79.9,Terrestrial,rural,active,0.09,abundance,0.037426498
+TI315_8,7.3,80.24,Terrestrial,rural,active,0.07,abundance,0.029383778
+TI316_1,45.61,126.39,Terrestrial,urban,active,1.83,abundance,0.451786436
+TI316_11,46.03,126.24,Terrestrial,urban,active,1.5,abundance,0.397940009
+TI316_17,46.35,126.7,Terrestrial,urban,active,1.31,abundance,0.36361198
+TI316_23,45.6,126.56,Terrestrial,urban,active,2.83,abundance,0.583198774
+TI316_28,45.76,126.9,Terrestrial,urban,active,2.07,abundance,0.487138375
+TI316_33,45.54,126.6,Terrestrial,urban,active,1.87,abundance,0.457881897
+TI316_38,45.55,126.97,Terrestrial,urban,active,1.43,abundance,0.385606274
+TI316_6,45.83,126.96,Terrestrial,urban,active,1.4,abundance,0.380211242
+TI319_1,32.12,118.96,Terrestrial,urban,active and passive,302.31,deposition,2.481886729
+TI319_1,32.12,118.96,Terrestrial,urban,active and passive,1.31,abundance,0.36361198
+TI331_1,23.42,85.43,Terrestrial,urban,active,19789,deposition,4.296445794
+TI335_1,30,80,fresh water,remote area,passive,41.12,deposition,1.624488363
+TI34_1,42.19,-8.82,Terrestrial,urban,passive,42.525,deposition,1.63873878
+TI34_10,28.08,-15.46,Island,NA,passive,18.65,deposition,1.293362555
+TI34_2,40.6,-3.71,Terrestrial,urban,passive,5.7,deposition,0.826074803
+TI34_3,42.46,-3.74,Terrestrial,urban,passive,20.875,deposition,1.339948062
+TI34_4,42.46,-3.34,Terrestrial,urban,passive,75.8,deposition,1.88536122
+TI34_5,40.51,-3.34,Terrestrial,urban,passive,7.775,deposition,0.943247125
+TI34_6,42.65,-1.63,Terrestrial,urban,passive,7.95,deposition,0.951823035
+TI34_7,41.44,-1.17,Terrestrial,urban,passive,58.975,deposition,1.777970257
+TI34_8,38.11,-2.14,Terrestrial,urban,passive,21.15,deposition,1.345373731
+TI34_9,28.29,-16.15,Island,NA,passive,10.775,deposition,1.070960916
+TI345_1,30.91,114.36,Terrestrial,urban,passive,82.85,deposition,1.923503067
+TI348_1,53.55,-9.99,Terrestrial,urban,passive,147,deposition,2.170261715
+TI348_10,53.55,-9.99,Terrestrial,urban,passive,53,deposition,1.73239376
+TI348_11,53.55,-9.99,Terrestrial,urban,passive,71,deposition,1.857332496
+TI348_2,53.55,-9.99,Terrestrial,urban,passive,118,deposition,2.075546961
+TI348_3,53.55,-9.99,Terrestrial,urban,passive,153,deposition,2.187520721
+TI348_4,53.55,-9.99,Terrestrial,urban,passive,67,deposition,1.832508913
+TI348_5,53.55,-9.99,Terrestrial,urban,passive,53,deposition,1.73239376
+TI348_6,53.55,-9.99,Terrestrial,urban,passive,70,deposition,1.851258349
+TI348_7,53.55,-9.99,Terrestrial,urban,passive,65,deposition,1.819543936
+TI348_8,53.55,-9.99,Terrestrial,urban,passive,72,deposition,1.86332286
+TI348_9,53.55,-9.99,Terrestrial,urban,passive,71,deposition,1.857332496
+TI350_1,40,116.4,Terrestrial,urban,active,3,abundance,0.602059991
+TI350_2,31.2,121.3,Coastal,NA,active,1.7,abundance,0.431363764
+TI351_1,40.8,29.36,Terrestrial,urban,active,14998,abundance,4.176062305
+TI353_1,28.98,50.83,Terrestrial,urban,active,10.3,abundance,1.053078443
+TI4_1,31.26,121.5,Terrestrial,urban,passive,2100,deposition,3.322426052
+TI54_1,31.34,121.52,Terrestrial,urban,active,5.6,abundance,0.819543936
+TI57_1,50.49,9.94,Terrestrial,rural,active,59,deposition,1.77815125
+TI57_2,51.33,9.52,Terrestrial,urban,active,73,deposition,1.86923172
+TI57_3,53.12,8.71,Terrestrial,urban,active,114,deposition,2.06069784
+TI57_4,53.57,8.57,Terrestrial,urban,active,183,deposition,2.264817823
+TI57_5,52.17,9.06,Terrestrial,suburban,active,29,deposition,1.477121255
+TI57_6,51.71,9.55,Terrestrial,rural,active,48,deposition,1.69019608
+TI58_1,29.6,53,Terrestrial,urban,passive,472.6666667,deposition,2.675472823
+TI58_2,29.63,52.5,Terrestrial,urban,passive,240,deposition,2.382017043
+TI58_3,29.6,52.5,Terrestrial,urban,passive,248,deposition,2.396199347
+TI58_4,29.7,52.5,Terrestrial,urban,passive,448.4727273,deposition,2.652703345
+TI58_5,29.62,52.5,Terrestrial,urban,passive,215.373913,deposition,2.335204899
+TI58_6,29.85,52.65,Terrestrial,rural,passive,324.3428571,deposition,2.512341276
+TI65_1,32.28,48.7,Terrestrial,Urban,active,0.015,abundance,0.006466042
+TI65_2,31.3,48.47,Terrestrial,urban,active,0.01,abundance,0.004321374
+TI72_1,48.84,2.58,Terrestrial,suburban,passive,34.4,deposition,1.549003262
+TI73_1,40,116.33,Terrestrial,urban,active,393,abundance,2.595496222
+TI73_10,32.13,118.78,Terrestrial,urban,active,177,abundance,2.250420002
+TI73_13,30.27,120.2,Terrestrial,urban,active,246,abundance,2.392696953
+TI73_4,40,117.33,Terrestrial,urban,active,324,abundance,2.511883361
+TI73_7,31.23,121.43,Terrestrial,urban,active,267,abundance,2.428134794
+TI76_1,54.5,18.6,Coastal,NA,active and passive,451,abundance,2.655138435
+TI76_2,56,19,Coastal,NA,active and passive,41.5,abundance,1.62838893
+TI76_3,56.5,17.5,Coastal,NA,active and passive,21,abundance,1.342422681
+TI76_4,57.5,19,Coastal,NA,active and passive,65,abundance,1.819543936
+TI84_1,51.32,9.52,Terrestrial,urban,passive,17,deposition,1.255272505
+TI84_1,51.32,9.52,Terrestrial,urban,passive,2,abundance,0.477121255
+TI86_1,36.08,114.33,Terrestrial,urban,active,0.42,abundance,0.152288344
+TI88_1,12.68,128.56,Marine,NA,active,0.00694,abundance,0.003003593
+TI88_10,1.92,142.03,Marine,NA,active,0.01389,abundance,0.00599084
+TI88_11,-0.05,142.03,Marine,NA,active,0,abundance,0
+TI88_12,-2.02,163.04,Marine,NA,active,0,abundance,0
+TI88_13,0.61,163.01,Marine,NA,active,0.00694,abundance,0.003003593
+TI88_14,4.01,163.01,Marine,NA,active,0.00347,abundance,0.001504393
+TI88_15,6.16,160.38,Marine,NA,active,0.00694,abundance,0.003003593
+TI88_16,3.71,150.56,Marine,NA,active,0.00694,abundance,0.003003593
+TI88_17,2.22,147.02,Marine,NA,active,0.02667,abundance,0.011430872
+TI88_18,1.95,141.18,Marine,NA,active,0.00463,abundance,0.002006143
+TI88_19,4.46,142,Marine,NA,active,0.00347,abundance,0.001504393
+TI88_2,12.57,130.7,Marine,NA,active,0.01389,abundance,0.00599084
+TI88_20,4.68,140.16,Marine,NA,active,0.01389,abundance,0.00599084
+TI88_21,6.97,158.15,Marine,NA,active,0.00694,abundance,0.003003593
+TI88_22,2.39,142.03,Marine,NA,active,0.00694,abundance,0.003003593
+TI88_23,6.64,141.95,Marine,NA,active,0,abundance,0
+TI88_24,10.02,142,Marine,NA,active,0.01736,abundance,0.007474658
+TI88_25,18.03,140.32,Marine,NA,active,0.02778,abundance,0.011900162
+TI88_26,20.99,141.33,Marine,NA,active,0.00513,abundance,0.002222236
+TI88_27,15.74,140.98,Marine,NA,active,0.00256,abundance,0.001110373
+TI88_28,13.53,140.46,Marine,NA,active,0.00926,abundance,0.004003061
+TI88_29,5.93,141.92,Marine,NA,active,0,abundance,0
+TI88_3,13.01,129.96,Marine,NA,active,0.00833,abundance,0.003602689
+TI88_30,11.48,138.82,Marine,NA,active,0,abundance,0
+TI88_31,22.96,126.36,Marine,NA,active,0.01389,abundance,0.00599084
+TI88_32,34.58,122.4,Marine,NA,active,0.00694,abundance,0.003003593
+TI88_4,15.75,129.95,Marine,NA,active,0.01389,abundance,0.00599084
+TI88_5,18.01,129.98,Marine,NA,active,0.00521,abundance,0.0022568
+TI88_6,20,126.99,Marine,NA,active,0.01389,abundance,0.00599084
+TI88_7,16.02,128.88,Marine,NA,active,0.00926,abundance,0.004003061
+TI88_8,10.02,129.96,Marine,NA,active,0,abundance,0
+TI88_9,11.15,141.31,Marine,NA,active,0.01389,abundance,0.00599084
+TI89_2,22.75,121.15,Terrestrial,urban,active,28,abundance,1.462397998
+TI91_2,40.63,-8.65,Terrestrial,urban,active,12,abundance,1.113943352

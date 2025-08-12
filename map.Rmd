@@ -1,0 +1,143 @@
+
+
+```{r}
+library(ggplot2)
+library(tidyverse)
+library(maps)
+library(ggsci)
+
+
+df <- read.csv("mapdata.csv")
+
+head(df)
+
+world <- map_data("world")
+
+p11 <- ggplot(data = df) + 
+  
+  geom_polygon(data = world, aes(x = long, y = lat, group=group), 
+               fill = "#F4F1EA", color = "#F4F1EA", size = 0.1)+
+  
+  geom_point(aes(longitude, latitude, fill = group, color = group), size = 2,
+             shape = 21, stroke = 0.5) +
+  
+  scale_color_manual(values = c("#B86365", "#435B66"))+
+  scale_fill_manual(values = alpha(c("#B86365", "#435B66"), 0.6))+
+  
+  # scale_shape_manual(values = c(24,21)) +
+  
+  labs(x = " ", y = " ") +
+  
+  theme_minimal() +
+  
+   theme(legend.position = "none") +
+  
+  theme(plot.background = element_rect(fill="#A9C7D4", color="black",size = 0.25),
+        axis.title = element_blank(), axis.text = element_blank(), 
+        axis.ticks = element_blank(), panel.grid = element_blank())
+
+p11
+
+# ggsave(plot = p6, "samples_map.pdf", height = 96, width = 126, units = "mm")
+
+
+```
+
+
+```{r}
+
+p12 <- ggplot(df,aes(x = longitude, y = scaled_value, color = group, fill = group)) +
+  
+  geom_segment(aes(x = longitude, xend = longitude, y = 0, yend = scaled_value),
+               size = 0.1, alpha = 0.8) +
+  
+  geom_point(size = 1, shape = 21, stroke = 0.2) +
+  
+  scale_x_continuous(limits = c(min(world$long),max(world$long))) +
+  
+  scale_color_manual(values = c("#B86365", "#435B66"))+
+  scale_fill_manual(values = alpha(c("#B86365", "#435B66"), 0.6))+
+  
+  theme_minimal() +
+  
+  theme(legend.position = "none", 
+        axis.title = element_blank(), 
+        axis.text.x = element_blank(),
+        # axis.ticks = element_blank(), 
+        # panel.grid = element_blank()
+        )
+
+
+p12
+
+```
+
+```{r}
+
+p13 <- ggplot(df,aes(x = latitude, y = scaled_value, color = group, fill = group)) +
+  
+  geom_segment(aes(x = latitude, xend = latitude, y = 0, yend = scaled_value), 
+               size = 0.1, alpha = 0.8) +
+  
+  geom_point(size = 1, shape = 21, stroke = 0.2) +
+  
+  scale_color_manual(values = c("#B86365", "#435B66"))+
+  scale_fill_manual(values = alpha(c("#B86365", "#435B66"), 0.6))+
+  
+  scale_x_continuous(limits = c(min(world$lat),max(world$lat))) +
+  
+  coord_flip() +
+  
+  theme_minimal()+
+  
+  theme(legend.position = "none",
+        axis.title = element_blank(),
+        axis.text.y = element_blank(),
+        # axis.ticks = element_blank(),
+        # panel.grid = element_blank()
+        )
+
+
+p13
+
+```
+
+### 将地图与composition pcoa、distance-decay、simialrity拼在一起
+```{r}
+
+library(cowplot)
+
+pa <- plot_grid(
+  p12,  # 经度柱状图在上方
+  p11,        # 地图在下方
+  ncol = 1,        # 一列布局
+  align = "v",     # 纵向对齐
+  rel_heights = c(1, 2.5)  # 调整高度比例，使地图比上方柱状图高
+)
+
+
+pb <- plot_grid(
+  p13,  # 经度柱状图在上方
+  p13,        # 地图在下方
+  ncol = 1,        # 一列布局
+  align = "v",     # 纵向对齐
+  rel_heights = c(1, 2.5)  # 调整高度比例，使地图比上方柱状图高
+)
+
+
+# 将纬度柱状图放在右侧
+p1 <- plot_grid(
+  pa,   # 左侧是经度柱状图和地图的组合
+  pb,   # 右侧是纬度柱状图
+  ncol = 2,        # 两列布局
+  rel_widths = c(4, 1)  # 调整宽度比例，使右侧柱状图较窄
+)
+
+p1
+
+ggsave(plot = p1, "map_abundance.pdf", width = 200, height = 130, units = "mm")
+
+
+```
+
+
