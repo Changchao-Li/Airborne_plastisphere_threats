@@ -4,7 +4,6 @@
 library(ggplot2)
 library(tidyverse)
 library(maps)
-library(ggsci)
 
 
 df <- read.csv("mapdata.csv")
@@ -139,5 +138,6 @@ ggsave(plot = p1, "map_abundance.pdf", width = 200, height = 130, units = "mm")
 
 
 ```
+
 
 
